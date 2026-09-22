@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0766-toeplitz-matrix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
