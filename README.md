@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0766-toeplitz-matrix) |
 ## Two Pointers
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhijitkumar8229/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
